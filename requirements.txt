@@ -1,0 +1,20 @@
+# requirements.txt for Cyberbullying Detection Project
+
+# Core data handling
+numpy
+pandas
+
+# Classical ML
+scikit-learn
+imblearn
+
+# Deep Learning (BiLSTM, Neural Nets)
+tensorflow
+
+# NLP Preprocessing
+nltk
+
+# Transformers
+torch
+datasets
+transformers
